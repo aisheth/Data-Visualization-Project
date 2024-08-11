@@ -1,18 +1,23 @@
 # Data-Visualization-Project
 
 #Project Overview
+
 Task Description
+
 This project focuses on creating visualizations to address four specific questions posed by the CEO and CMO of a retail store. The visuals will be created using either Tableau or Power BI, utilizing provided data after proper cleaning.
 
-#Tools Required
+#Tools Required 
+
 Visualization Tools: Tableau or Power BI
-Both tools offer free trials for project completion.
 
 #Data Cleanup
+
 Before starting the analysis, ensure the data is cleaned properly:
 
 Remove returns with negative quantities and incorrect unit prices.
+
 Implement checks:
+
 ->Quantity should not be below 1 unit.
 
 ->Unit price should not be below $0.
